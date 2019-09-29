@@ -1,0 +1,22 @@
+ul .navbar-nav{
+	right: 0px;
+}
+.jumbotron{
+	text-align: center;
+	background-image: url("hero_image.jpg");
+	color: white;	
+}
+.jumbotron h1, #navbarsExampleDefault{
+	font-family: 'Arvo', Serif;	
+}
+.display-3{
+	margin-bottom: 50px;	
+}
+p{
+	margin-bottom: 30px;	
+	font-size: 24px;
+}
+#code-logo{
+	width: 75px;
+	height: 75px;
+}
