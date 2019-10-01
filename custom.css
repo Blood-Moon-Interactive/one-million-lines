@@ -21,3 +21,49 @@ ul .navbar-nav{
 	width: 75px;
 	height: 75px;
 }
+.btn-lg{
+	font-size: 36px;
+}
+.homepage{
+	text-align: center;
+}
+.homepage h2, .homepage h3{
+	color: #E74C3C;
+	font-family: 'Arvo', Serif;
+	text-transform: uppercase;
+	padding: 20px;	
+}
+.homepage h3{
+	font-size: 26px;	
+}
+.homepage p{
+	font-weight: 300;
+	font-size: 21px;
+}
+.homepage hr{
+	border-top: 1px solid #E74C3C;
+	width: 160px;
+	margin-top: 15px;
+}
+.homepage a, .homepage a:visited{
+	color: white;
+	font-weight: bold;
+}
+.homepage a:hover{
+	color: #E74C3C;
+	text-decoration: none;
+	opacity: .8;
+}
+#get-involved{
+	background-color: #F5F5F5;
+}
+.white{
+	color: white;
+}
+footer{
+	background-color: #E74C3C;
+	padding: 20px 0px;
+}
+footer p{
+	margin-left: 30px;
+}
